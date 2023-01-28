@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MessageShareApp</string>
+    <string name="send_data_to_next_activity">Send your data to next activity</string>
+    <string name="enter_message_here">Enter your message</string>
+</resources>
